@@ -30,7 +30,7 @@ often.
 4. Add the chicken broth, coconut milk, salt, pepper and
 Italian seasoning. Stir to combine.
 
-## Reference
+## References
 
-[Source](https://www.eatingbirdfood.com/one-pan-chicken-sausage-and-orzo/)
+- https://www.eatingbirdfood.com/one-pan-chicken-sausage-and-orzo/
 
