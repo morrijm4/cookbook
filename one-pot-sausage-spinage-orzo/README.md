@@ -2,7 +2,7 @@
 
 [Source](https://www.eatingbirdfood.com/one-pan-chicken-sausage-and-orzo/)
 
-![One Pot Sausage Spinage Orzo](chicken-sausage-orzo-hero.jpg)
+<img alt="One Pot Sausage Spinage Orzo" href="chicken-sausage-orzo-hero.jpg" width="200" />
 
 ## Ingredients
 
