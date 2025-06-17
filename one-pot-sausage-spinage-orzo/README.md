@@ -1,6 +1,8 @@
 # One Pot Sausage Spinage Orzo
 
-(Source)[https://www.eatingbirdfood.com/one-pan-chicken-sausage-and-orzo/]
+[Source](https://www.eatingbirdfood.com/one-pan-chicken-sausage-and-orzo/)
+
+![One Pot Sausage Spinage Orzo](chicken-sausage-orzo-hero.jpg)
 
 ## Ingredients
 
