@@ -31,9 +31,7 @@
 
 ## Interesting comment
 
-```
 This dish was absolutely delicious and packed full of flavor. With any recipe..you have to make it your own. A little of this and a little of that goes a long way. Of course it needs salt..you should add that before anything else is done...Most of these recipes are base recipes..something that you can build from. It's up to you to make it worth your while. With my revisions it was the perfect consistency, perfect flavor, just the right amount of spices..I did omit the celery and garlic clove. I used dried minced garlic, red and green bell peppers, lots of cayenne, Tony's creole seasoning and chicken broth...not that store bought stuff but just regular water with better than boullion chicken base..(can be found in just about any grocery store) instead of water, I also used a little sage and cumin. I replaced the olive oil and used butter. I seasoned my vegetables while they were carmelizing. I loved it and my fiance thought it was the best thing since white bread,,,needless to say I will be making this again.
-```
 
 ## Reference
 
