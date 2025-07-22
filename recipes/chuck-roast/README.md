@@ -29,6 +29,6 @@
 12. Remove carrots & potatoes and shred the beef with tongs.
 13. Serve over polenta. 
 
-<img src="./pre-boil.jpeg" alt="Searing the steak" width="400" />
 <img src="./searing-steak.jpeg" alt="pre-boil" width="400" />
+<img src="./pre-boil.jpeg" alt="Searing the steak" width="400" />
 <img src="./served.jpg" alt="Served roast" width="400" />
