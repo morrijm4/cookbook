@@ -19,16 +19,15 @@
 - crushed red pepper (optional)
 - fresh basil, for garnish
 
-## How to cook
+## Instructions
 
-1. Add oil to a large skillet over medium heat. Once hot
-add onion and garlic. Cook for about 5 minutes, stirring
-often.
-2. Add the chicken sausage into the pan. Sauté for another
-5-6 minutes or until golden.
+1. Add oil to a large skillet over medium heat. Once hot add onion and garlic.
+   Cook for about 5 minutes, stirring often.
+2. Add the chicken sausage into the pan. Sauté for another 5-6 minutes or until
+   golden.
 3. Add orzo to the pan and stir for 1 minute to toast.
-4. Add the chicken broth, coconut milk, salt, pepper and
-Italian seasoning. Stir to combine.
+4. Add the chicken broth, coconut milk, salt, pepper and Italian seasoning.
+   Stir to combine.
 
 ## References
 
