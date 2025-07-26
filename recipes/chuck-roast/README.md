@@ -13,7 +13,7 @@
 - 2 cups of red wine
 - Salt & pepper
 
-# Instructions
+## Instructions
 
 1.  Preheat oven to 300 degrees.
 2.  Salt & pepper the hell out of the chuck roast.
