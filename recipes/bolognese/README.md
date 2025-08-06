@@ -69,3 +69,6 @@ Makes about 3 servings of pasta
 12. Boil a pot of water and generously add iodized salt so that the water tastes very salty 
 13. Put the pasta in the boiling water and boil for about 3 minutes, tasting to achieve desired consistency
 14. Strain pasta and mix with bolognese to enjoy!
+
+
+https://www.loveandlemons.com/homemade-pasta-recipe/ 
