@@ -2,6 +2,7 @@
 
 <img src="./parpadelle-bolognese.jpeg" alt="Parpadelle Bolognese" width="400" />
 
+For the sauce:
 Makes about 9 cups of sauce
 
 ## Ingredients
@@ -40,3 +41,31 @@ Makes about 9 cups of sauce
 
 
 <img src="./reference-recipe.jpeg" alt="Reference Recipe" width="400" />
+
+
+For the fresh pasta:
+Makes about 3 servings of pasta
+
+## Ingredients
+
+- 2 cups of all purpose flour, spooned and leveled
+- 3 large eggs
+- 1/2 teaspoon sea salt
+- 1/2 tablespoon extra-virgin olive oil
+
+## Instructions
+
+1. Place the flour on a clean work surface and make a nest
+2. Add the eggs, olive oil, and salt to the center and use a fork to gently break up the eggs, keeping the flour walls intact
+3. Use your hands to gently bring the flour inward to incorporate
+4. Continue working the dough with your hands to bring it together into a shaggy ball
+5. Knead the dough for 8 to 10 minutes - at the beginning the dough should feel pretty dry but stick with it, it might not feel like its going to come together but after 8-10 minutes it should be cohesive and smooth
+6. If the dough seems too dry still, sprinkle fingers with a little bit of water to incorporate, and if it is too sticky dust more flour onto the work space
+7. Shape the dough into a ball, wrap tightly in plastic wrap, and let it rest at room temperature for at least 30 minutes and up to 2 hours
+8. Slice the dough into 4 pieces, gently flatten one into an oval disk and continue to roll out with a rolling pin until very thin and nearly see through 
+9. On a floured surface, ribbon the sheet of dough into one stack 
+10. Cut the dough stack into skinnier or wider strips depending on if you want tagliatelle or parpadelle noodles 
+11. Unravel and loosely set them on the counter in a pile, making sure to use flour so that the stacks aren't stuck together 
+12. Boil a pot of water and generously add iodized salt so that the water tastes very salty 
+13. Put the pasta in the boiling water and boil for about 3 minutes, tasting to achieve desired consistency
+14. Strain pasta and mix with bolognese to enjoy!
