@@ -1,6 +1,6 @@
 # Focaccia Bread
 
-<img src="./after-boil.jpg" alt="After boil roast" width="400" />
+<img src="./cut.jpeg" alt="Cut Focaccia" width="400" />
 
 ## Ingredients
 
@@ -37,5 +37,6 @@ For garlic butter, cheese, and rosemary topping:
 12. Bake for 18-24 minutes on the lowest rack to help the bottom of the bread crisp up, pulling the bread out about halfway through the cooking to add the remaining 1/2 cheese
 13. Brush with the remaining 1/3 of the garlic butter and let it cool for about 15 minutes before cutting into it and serving
 
-<img src="./searing-steak.jpeg" alt="pre-boil" width="400" />
+<img src="./pre-bake.jpeg" alt="pre-bake" width="400" />
+<img src="./baked.jpeg" alt="baked" width="400" />
 
