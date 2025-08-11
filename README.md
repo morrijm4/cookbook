@@ -8,3 +8,4 @@
 - [Red Beans and Rice](/recipes/red-beans-and-rice/README.md)
 - [Parpadelle Bolognese](/recipes/bolognese/README.md)
 - [Focaccia Bread](/recipes/focaccia-bread/README.md)
+- [Mexican Rice](/recipes/mexican-rice/README.md)
