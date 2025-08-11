@@ -9,3 +9,4 @@
 - [Parpadelle Bolognese](/recipes/bolognese/README.md)
 - [Focaccia Bread](/recipes/focaccia-bread/README.md)
 - [Mexican Rice](/recipes/mexican-rice/README.md)
+- [Brown Butter Chocolate Chip Cookies](/recipes/brown-butter-chocolate-chip-cookies/README.md)
