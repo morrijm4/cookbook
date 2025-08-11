@@ -40,4 +40,4 @@ Makes about 16 cookies.
 
 Reference Recipe:
 
-img src="./reference-recipe.jpeg" alt="Reference Recipe" width="400" />
+<img src="./cookie-reference-recipe.jpg" alt="Reference Recipe" width="400" />
