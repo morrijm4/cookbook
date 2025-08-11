@@ -25,4 +25,5 @@ Makes 2 cups of rice.
 
 
 Reference Recipe: 
+
 <img src="reference-recipe.jpg" alt="Reference Recipe" width="400" />
