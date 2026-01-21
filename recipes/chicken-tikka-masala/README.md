@@ -49,3 +49,7 @@
 serving.
 
 <img src="./mm-and-em.jpg" alt="MM & Em" width="400" />
+
+## Reference
+
+- https://www.bonappetit.com/recipe/chicken-tikka-masala
