@@ -9,7 +9,7 @@
 - Beef stock
 - Fresh rosemary
 - 1 bag of baby carrots
-- Small potates
+- Small potatoes
 - 2 cups of red wine
 - Salt & pepper
 
@@ -21,7 +21,7 @@
 4.  Remove chuck roast from heat.
 5.  Reduce wine down for 5 minutes.
 6.  Put roast back into the pot. 
-7.  Add baby carrots and potatos to the pot.
+7.  Add baby carrots and potatoes to the pot.
 8.  Quarter onion and add to pot.
 9.  Pour in beef stock -- keep the pot half full with beef stock.
 10. Chop and add rosemary.
