@@ -1,5 +1,7 @@
 # Chicken Tikka Masala
 
+<img src="./chicken-tikka-masala.jpg" alt="Chicken Tikka Masala" width="400" />
+
 ## Ingredients
 
 - 6 garlic cloves, finely grated
