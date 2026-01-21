@@ -48,6 +48,10 @@
 **Do Ahead:** Chicken can be made 2 days ahead. Cover; chill. Reheat before
 serving.
 
+## Accompaniments 
+
+- [Garlic Naan](../garlic-naan/README.md)
+
 <img src="./mm-and-em.jpg" alt="MM & Em" width="400" />
 
 ## Reference
