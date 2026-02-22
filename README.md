@@ -15,8 +15,8 @@
 
 - [Focaccia Bread](/recipes/focaccia-bread/README.md)
 - [Mexican Rice](/recipes/mexican-rice/README.md)
-- [Garlic Naan](../garlic-naan/README.md)
-- [Artisan Bread](../artisan-bread/README.md)
+- [Garlic Naan](../recipes/garlic-naan/README.md)
+- [Artisan Bread](../recipes/artisan-bread/README.md)
 
 ### Desserts
 
