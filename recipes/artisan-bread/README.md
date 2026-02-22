@@ -1,6 +1,6 @@
 # Artisan Bread
 
-<img src="./finished-bread.jpeg" alt="Finished bread" width="400" />
+<img src="./finished.jpeg" alt="Finished bread" width="400" />
 
 ## Ingredients
 
