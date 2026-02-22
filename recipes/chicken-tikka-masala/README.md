@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Chicken Tikka Masala
 
 <img src="./chicken-tikka-masala.jpg" alt="Chicken Tikka Masala" width="400" />

@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Bolognese
 
 <img src="./parpadelle-bolognese.jpeg" alt="Parpadelle Bolognese" width="400" />

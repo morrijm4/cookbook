@@ -1,4 +1,6 @@
-# One Pot Sausage Spinage Orzo
+[Table of Contents](/README.md)
+
+# One Pot Sausage Spinach Orzo
 
 <img alt="One Pot Sausage Spinage Orzo" src="./chicken-sausage-orzo-hero.jpg" width="400" />
 

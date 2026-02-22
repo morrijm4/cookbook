@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Garlic Naan
 
 ## Ingredients

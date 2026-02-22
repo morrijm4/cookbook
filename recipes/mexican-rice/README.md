@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Mexican Rice 
 
 <img src="mexican-rice.jpg" alt="Mexican Rice" width="400" />

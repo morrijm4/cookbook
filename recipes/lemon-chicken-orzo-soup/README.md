@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Lemon Chicken Orzo Soup
 
 <img src="./77483722656__1855B334-6FD4-4C02-AA06-B0069AB0A173.jpg" alt="Lemon chicken orzo soup" width="400" />

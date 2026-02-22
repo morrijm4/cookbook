@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Red Beans and Rice
 
 <img alt="Red Beans and Rice" src="58211-Authentic-Louisiana-Red-Beans-And-Rice-mfs-119-d0e0d9b700be467395da252e74921e87.webp" width="400" />

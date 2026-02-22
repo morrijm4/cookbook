@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Brown Butter Chocolate Chip Cookies
 
 <img src="./cookie-plate.jpg" alt="Cookie Plate" width="400" />
