@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Artisan Bread
 
 <img src="./bread.jpg" alt="Finished bread" width="400" />
