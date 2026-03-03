@@ -15,7 +15,8 @@
 
 1.  Mix flour, yeast, and salt in a large bowl.
 2.  Mix the dough as you pour the warm water into the bowl. Do a handful of
-    batches. Mix until the dough is sticky. You can use a spatula or wooden
+    batches. Mix until the dough is somewhat formed together but it won't be 
+    smooth. You can use a spatula or wooden.
     spoon.
 3.  Cover with a towel or plastic wrap for 2 hours or leave in the fridge from
     8-24 hours. The longer you let it rise, the more it will ferment. Dough
