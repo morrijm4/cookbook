@@ -41,9 +41,10 @@ Makes about 9 cups of sauce
 10. Cover the pot and simmer until the sauce thickens, for at least 4 hours. 
 11. Discard the bay leaves and cheese rind, adjust the seasonings with salt and pepper, and mix with parpadelle or tagliatelle
 
-
+## References
 <img src="./reference-recipe.jpeg" alt="Reference Recipe" width="400" />
 
+- https://youtu.be/vcqXRAi9vrs?si=HsCvKtCMm0Af4eV2
 
 For the fresh pasta:
 Makes about 3 servings of pasta
